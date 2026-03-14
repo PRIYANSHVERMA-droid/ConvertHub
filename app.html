@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<title>ConvertHub</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles/style.css">
+
+</head>
+
+<body>
+
+<!-- SPLASH SCREEN -->
+
+<div id="splash-screen">
+
+<div class="splash-logo">⚡ ConvertHub</div>
+
+<div class="splash-status">
+<p id="engine-status">Loading engines...</p>
+</div>
+
+</div>
+
+<!-- MAIN APP -->
+
+<div id="main-app">
+
+<div class="titlebar">
+
+<div class="app-title">⚡ ConvertHub</div>
+
+<div class="window-controls">
+<button id="minimize">—</button>
+<button id="maximize">□</button>
+<button id="close">✕</button>
+</div>
+
+</div>
+
+<div class="desktop-app">
+
+<aside class="sidebar">
+
+<button class="tool active" data-type="audio">🎵 Audio</button>
+<button class="tool" data-type="video">🎬 Video</button>
+<button class="tool" data-type="images">🖼 Images</button>
+<button class="tool" data-type="documents">📄 Documents</button>
+<button class="tool" data-type="archive">📦 Archive</button>
+
+</aside>
+
+<main class="workspace">
+
+<h2>Universal File Converter</h2>
+
+<div class="upload-zone" id="upload-btn">
+
+<div class="upload-icon">📂</div>
+
+<div class="upload-text">
+Click here to select files
+</div>
+
+</div>
+
+<div id="file-list" class="file-list"></div>
+<div id="file-summary"></div>
+<select id="format-select"></select>
+
+<button id="convert-btn">Start Conversion</button>
+
+<div class="progress-bar">
+<div class="progress-fill"></div>
+</div>
+
+</main>
+
+</div>
+
+</div>
+
+<script src="scripts/ui.js"></script>
+
+</body>
+</html>

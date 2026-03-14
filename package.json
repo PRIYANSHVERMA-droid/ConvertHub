@@ -1,0 +1,52 @@
+{
+  "name": "converthub",
+  "version": "1.0.0",
+  "description": "Universal File Converter Desktop App",
+  "main": "main.js",
+  "author": "Priyansh",
+  "license": "MIT",
+
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+
+  "devDependencies": {
+    "electron": "^31.0.0",
+    "electron-builder": "^24.13.3"
+  },
+
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  },
+
+  "build": {
+    "appId": "com.converthub.app",
+    "productName": "ConvertHub",
+
+    "files": [
+      "**/*"
+    ],
+
+    "extraResources": [
+      "engines/**"
+    ],
+
+    "directories": {
+      "buildResources": "build"
+    },
+
+    "win": {
+      "target": "nsis",
+      "icon": "build/icon.ico"
+    },
+
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "installerIcon": "build/icon.ico",
+      "uninstallerIcon": "build/icon.ico",
+      "installerHeaderIcon": "build/icon.ico"
+    }
+  }
+}
