@@ -10,6 +10,12 @@
 ![Version](https://img.shields.io/badge/version-1.0-green)
 ![Built With](https://img.shields.io/badge/built%20with-Electron-purple)
 
+<p align="center">
+  <a href="https://github.com/PRIYANSHVERMA-droid/ConvertHub/releases">
+    <img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge">
+  </a>
+</p>
+
 **ConvertHub** is a universal desktop file converter that supports audio, video, image, document, and archive conversions in a single modern application.
 
 It integrates powerful tools like **FFmpeg**, **LibreOffice**, and **7-Zip** to handle a wide range of file formats without requiring users to install additional software.
