@@ -15,10 +15,13 @@ It integrates powerful tools like **FFmpeg**, **LibreOffice**, and **7-Zip** to 
 
 # 🖥 Preview
 
-![ConvertHub Interface](https://raw.githubusercontent.com/PRIYANSHVERMA-droid/ConvertHub/main/Screenshots/main-ui.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PRIYANSHVERMA-droid/ConvertHub/main/Screenshots/main-ui.png" width="850">
+</p>
 
-![ConvertHub Sidebar](https://raw.githubusercontent.com/PRIYANSHVERMA-droid/ConvertHub/main/Screenshots/sidebar.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PRIYANSHVERMA-droid/ConvertHub/main/Screenshots/sidebar.png" width="280">
+</p>
 ---
 
 # 🚀 Features
