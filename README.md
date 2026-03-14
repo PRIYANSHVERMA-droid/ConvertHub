@@ -16,10 +16,10 @@ It integrates powerful tools like **FFmpeg**, **LibreOffice**, and **7-Zip** to 
 # 🖥 Preview
 
 ## Main Interface
-![ConvertHub Interface](ConvertHub/screenshots/main-ui.png)
+![ConvertHub Interface](screenshots/main-ui.png)
 
 ## Sidebar Navigation
-![ConvertHub Sidebar](ConvertHub/screenshots/sidebar.png)
+![ConvertHub Sidebar](screenshots/sidebar.png)
 
 ---
 
