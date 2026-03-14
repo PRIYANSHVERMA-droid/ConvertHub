@@ -15,11 +15,9 @@ It integrates powerful tools like **FFmpeg**, **LibreOffice**, and **7-Zip** to 
 
 # 🖥 Preview
 
-## Main Interface
-![ConvertHub Interface](screenshots/main-ui.png)
+![ConvertHub Interface](https://raw.githubusercontent.com/PRIYANSHVERMA-droid/ConvertHub/main/screenshots/main-ui.png)
 
-## Sidebar Navigation
-![ConvertHub Sidebar](screenshots/sidebar.png)
+![ConvertHub Sidebar](https://raw.githubusercontent.com/PRIYANSHVERMA-droid/ConvertHub/main/screenshots/sidebar.png)
 
 ---
 
