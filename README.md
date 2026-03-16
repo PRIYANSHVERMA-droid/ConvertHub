@@ -49,20 +49,19 @@ It integrates powerful tools like **FFmpeg**, **LibreOffice**, and **7-Zip** to 
 # 📂 Supported Formats
 
 ### 🎵 Audio
-MP3, WAV, AAC, FLAC
+MP3, WAV, AAC, FLAC, OGG, M4A, WMA, OPUS, AIFF, ALAC
 
 ### 🎬 Video
-MP4, MKV, MOV, AVI
+MP4, MKV, AVI, MOV, WEBM, FLV, WMV, M4V, MPG, MPEG, TS, 3GP
 
 ### 🖼 Images
-JPG, PNG, WEBP
+JPG, JPEG, PNG, WEBP, BMP, TIFF, GIF, ICO, HEIC
 
 ### 📄 Documents
-PDF, DOCX, ODT
+PDF, DOC, DOCX, ODT, RTF, TXT, HTML, PPT, PPTX, XLS, XLSX, ODS
 
 ### 📦 Archives
-ZIP, 7Z, RAR
-
+ZIP, 7Z, RAR, TAR, GZ, BZ2
 ---
 
 # 🛠 Tech Stack
