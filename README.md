@@ -131,7 +131,8 @@ ConvertHub
 
 Planned improvements for future versions:
 
-• GPU accelerated video encoding  
+• GPU accelerated video encoding
+• Complete change in UI
 • Batch file conversion  
 • Conversion presets  
 • Conversion progress tracking  
